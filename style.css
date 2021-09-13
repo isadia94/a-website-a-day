@@ -19,12 +19,29 @@ body {
 .images__div {
   right: 5%;
   top: 25%;
+  z-index: 1;
 }
 .image2__div {
-  right: 23%;
+  right: 25%;
   top: 20%;
 }
 .image3__div {
-  right: 10%;
+  right: 17%;
   top: 40%;
+}
+
+.pattern1 {
+  top: 58%;
+  right: 50%;
+  z-index: 1000;
+}
+
+.section1 {
+  top: 100%;
+  left: 0;
+}
+.section__image {
+  width: 100px;
+  object-fit: contain;
+  color: grey;
 }
