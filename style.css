@@ -1,0 +1,30 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  font-family: "DM Serif Text", sans-serif;
+}
+
+.hero__text {
+  top: 45%;
+  transform: translateY(-45%);
+}
+
+.float {
+  top: 100%;
+  left: 30%;
+}
+
+.images__div {
+  right: 5%;
+  top: 25%;
+}
+.image2__div {
+  right: 23%;
+  top: 20%;
+}
+.image3__div {
+  right: 10%;
+  top: 40%;
+}
