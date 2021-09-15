@@ -20,10 +20,14 @@ body {
   right: 5%;
   top: 25%;
   z-index: 1;
+  border: 7px solid white;
+  border-radius: 999px;
 }
 .image2__div {
   right: 25%;
   top: 20%;
+  border: 10px solid white;
+  border-radius: 99px;
 }
 .image3__div {
   right: 17%;
